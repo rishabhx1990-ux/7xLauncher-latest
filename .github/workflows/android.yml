@@ -31,3 +31,4 @@ steps:
     with:
       name: 7xLauncher-APK
       path: '**/build/outputs/apk/**/*.apk'
+      if-no-files-found: error
