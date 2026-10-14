@@ -1,0 +1,3 @@
+# 7xLauncher-latest
+
+Initial repository setup for Zip2Git.
